@@ -44,3 +44,4 @@ dotnet add package MailKit --version 2.1.1
 ## security considerations
 
 - enforce [firewall rules](https://github.com/devel0/linux-scripts-utils/blob/master/fw.sh) to allow access to this webapi only from trusted ip addresses
+- or consider using pushingbox services
